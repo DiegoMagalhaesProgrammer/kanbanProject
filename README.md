@@ -1,6 +1,7 @@
 # kanbanProject
 
-A new Flutter project.
+Mobile application for managing software projects using the kanban board.
+
 
 ## Getting Started
 
